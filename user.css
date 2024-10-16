@@ -1,0 +1,15 @@
+header{
+background-color: blueviolet;
+color: white;
+padding: 2%;
+}
+main{
+    background-color: rgb(65, 136, 230);
+    color: white;
+    padding: 2%;
+}
+foother{
+    background-color: rgb(12, 221, 221);
+    color: rgb(0, 0, 0);
+    padding: 2%;
+}
